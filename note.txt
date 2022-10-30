@@ -1,0 +1,26 @@
+// cac buoc cau truc thu muc du an
+1. khoi tao
+npm init
+
+2. cai dat express
+npm install express --save
+
+3. cau hinh config 
+npm install config --save
+npm install body-parser --save
+npm install express-session --save
+
+4. template Engine
+npm install ejs --save
+
+5. cai dat mysql de ket noi nodejs
+npm install mysql --save
+
+6. cai dat module q de sd promise
+npm install q --save
+
+7. cai dat ma hoa password
+npm install bcrypt --save
+
+8. cai dat express session
+npm install express-session --save
